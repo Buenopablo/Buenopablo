@@ -2,7 +2,7 @@
 
 
 - 🔭 Hoje tabalho como Full stack
-- 🌱 Estudando NodeJs
+- 🌱 
 
 <div align="center">
   <a href="https://github.com/Buenopablo">
