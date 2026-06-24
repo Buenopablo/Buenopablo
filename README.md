@@ -6,9 +6,9 @@
 
 🚀 Atualmente atuo no desenvolvimento de APIs e aplicações web, aplicando conceitos de DDD, Clean Architecture, TypeORM e boas práticas de desenvolvimento.
 
-* 🔭 Atualmente trabalhando com Node.js, NestJS, TypeORM e PostgreSQL
-* 🌱 Estudando DDD, Clean Architecture e testes automatizados com Jest
-* 💬 Sempre aberto para trocar experiências sobre desenvolvimento web e arquitetura de software
+- 🔭 Atualmente trabalhando com Node.js, NestJS, TypeORM e PostgreSQL
+- 🌱 Aprofundando conhecimentos em DDD, Clean Architecture e testes automatizados com Jest
+- 💬 Sempre aberto para trocar experiências sobre desenvolvimento web e arquitetura de software
 
 <div align="center">
   <a href="https://github.com/Buenopablo">
@@ -21,13 +21,14 @@
 
 <div style="display: inline_block"><br>
   <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="NestJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg">
+  <img align="center" alt="NestJS" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" />
+  <img align="center" alt="TypeORM" height="35" width="40" src="https://avatars.githubusercontent.com/u/20165699?s=200&v=4" />
   <img align="center" alt="NodeJS" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="NextJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
+  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
+  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
 
 ## 📫 Contato
