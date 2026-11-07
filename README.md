@@ -22,13 +22,6 @@ Formado em Análise e Desenvolvimento de Sistemas pelo SENAI/SC.
 
 Inteligência Artificial Generativa, LLMs, LangChain, RAG, embeddings e bancos de dados vetoriais.
 
-## 📌 Projetos em destaque
-
-- [**technical-challenge-distributed-wagering-processor**](https://github.com/Buenopablo/technical-challenge-distributed-wagering-processor): backend para processamento distribuído de operações financeiras, com NestJS, TypeScript, PostgreSQL, TypeORM, SQS, idempotência e padrões Inbox/Outbox.
-- [**delivery-app**](https://github.com/Buenopablo/delivery-app): aplicação Full Stack de delivery desenvolvida como Trabalho de Conclusão de Curso, utilizando Next.js, React, Node.js e PostgreSQL.
-- [**mas-backend**](https://github.com/Buenopablo/mas-backend) e [**mas-frontend**](https://github.com/Buenopablo/mas-frontend): sistema de cadastro de atividades escolares e indicadores de desempenho estudantil.
-- [**MVP-Sistema-de-Agendamento**](https://github.com/Buenopablo/MVP-Sistema-de-Agendamento): aplicação para gerenciamento de agendamentos, com foco em organização de regras de negócio e desenvolvimento de APIs.
-
 > Os sistemas desenvolvidos durante minha experiência profissional são privados e, por isso, não estão disponíveis publicamente.
 
 ## 📫 Contato
